@@ -1,4 +1,4 @@
-# Blinkit Data Analysis Dashboard
+# BLINKIT DATA ANALYSIS DASHBOARD
 
 
 ## OBJECTIVE
@@ -9,59 +9,71 @@ insights for marketing, operations, and supply chain decisions with the help of 
 
 ## STEPS INVOLVED 
 
-1.Requirement Gathering / Business Requirements
-2.Data Walkthrough
-3.Data Connection
-4.Data Cleaning / Quality Check
-5.Data Modelling 
-6.Data Processing 
-7.Dax Calculations 
-8.Dashboard Lay-outing 
-9.Charts Development and Formatting
-10.Report Development 
-11.Insights Generation
+Requirement Gathering / Business Requirements -> Data Walkthrough -> Data Connection -> Data Cleaning / Quality Check ->
+Data Modelling -> Data Processing -> Dax Calculations -> Dashboard Lay-outing -> Charts Development and Formatting ->
+Report Development ->Insights Generation
 
 
-## KPI'S REQUIREMENTS
+## Key Performance Indicators (KPIs) 
 
-1. Total Sales: The overall revenue generated from all items sold.
-2. Average Sales: The average revenue per sale.
-3. Number of Items: The total count of different items sold.
-4. Average Rating: The average customer rating for items sold.
+1. **Total Sales**: The overall revenue generated from all items sold.
+2. **Average Sales**: The average revenue per sale.
+3. **Number of Items**: The total count of different items sold.
+4. **Average Rating**: The average customer rating for items sold.
 
 
 
-## CHART'S REQUIREMENTS
+## CHART REQUIREMENTS
 
 1.**Total Sales by Fat Content**:
-**Objective**: Analyze the impact of fat content on total sales.
-**Additional KPI Metrics**: Assess how other KPIs (Average Sales, Number of Items, Average Rating) vary with fat content.
-**Chart Type**: Donut Chart.
+**Objective**: Analyze the impact of fat content on total sales. Assess how other KPIs (Average Sales, Number of Items, Average Rating)
+vary with fat content.
 
-2. Total Sales by Item Type:
-Objective: Identify the performance of different item types in terms of total sales.
-Additional KPI Metrics: Assess how other KPis (Average Sales, Number of Items, Average Rating) vary with fat content.
-Chart Type: Bar Chart.
+2.**Total Sales by Item Type**:
+**Objective**: Identify the performance of different item types in terms of total sales.Assess how other KPis (Average Sales, Number of Items,
+Average Rating) vary with fat content.
 
-3. Fat Content by Outlet for Total Sales
-Objective: Compare total sales across different outlets segmented by fat content.
-Additional KPI Metrics: Assess how other KPIs (Average Sales, Number of Items, Average Rating) vary with fat content.
-Chart Type: Stacked Column Chart.
+3.**Fat Content by Outlet for Total Sales**:
+**Objective**: Compare total sales across different outlets segmented by fat content.Assess how other KPIs(Average Sales, Number of Items, Average
+Rating) vary with fat content.
 
-4. Total Sales by Outlet Establishment:
-Objective: Evaluate how the age or type of outlet establishment influences total sales.
-Chart Type: Line Chart.
 
-5.Sales by Outlet Size:
-Objective: Analyze the correlation between outlet size and total sales.
-Chart Type: Donut/ Pie Chart.
+4.**Total Sales by Outlet Establishment**:
+**Objective**: Evaluate how the age or type of outlet establishment influences total sales.
 
-6. Sales by Outlet Location:
-Objective: Assess the geographic distribution of sales across different locations.
-Chart Type: Funnel Map.
 
-7. All Metrics by Outlet Type:
-Objective: Provide a comprehensive view of all key metrics (Total Sales, Average Sales, Number of Items, Average Rating) broken down by different outlet types.
-Chart Type: Matrix Card.
+5.**Sales by Outlet Size**:
+**Objective**: Analyze the correlation between outlet size and total sales.
+
+
+6.**Sales by Outlet Location**:
+**Objective**: Assess the geographic distribution of sales across different locations.
+
+
+7.**All Metrics by Outlet Type**:
+**Objective**: Provide a comprehensive view of all key metrics (Total Sales, Average Sales, Number of Items, Average Rating) broken down by 
+different
+outlet types.
+
+
+
+## INSIGHTS
+
+Total Sales of $1.20M overall, with an average sale of $141.
+Tier 3 areas generated the highest sales ($472.13K).
+Fruits and Vegetables lead the category ($178.12K), followed by Snack Foods ($175.43K).
+Regular fat items (~$777.32K) dominate sales over low-fat products.
+Average Rating across products is solid at 3.97
+Total Items Sold: 8,523 across outlets.
+
+
+
+## CONCLUSION
+
+Blinkit’s sales are concentrated in high-sized outlets and Tier 3 areas, with regular fat products and fresh produce (fruits & vegetables) 
+being top revenue drivers. The strong sales trend in 2018 showcases potential for targeted campaigns, while focusing on high-performing outlets 
+and product categories can further optimize growth.
+
+
 
 
