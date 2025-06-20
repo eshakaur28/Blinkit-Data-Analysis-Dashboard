@@ -25,32 +25,32 @@ Report Development ->Insights Generation
 
 ## CHART REQUIREMENTS
 
-1.**Total Sales by Fat Content**:
+**Total Sales by Fat Content**:
 **Objective**: Analyze the impact of fat content on total sales. Assess how other KPIs (Average Sales, Number of Items, Average Rating)
 vary with fat content.
 
-2.**Total Sales by Item Type**:
+**Total Sales by Item Type**:
 **Objective**: Identify the performance of different item types in terms of total sales.Assess how other KPis (Average Sales, Number of Items,
 Average Rating) vary with fat content.
 
-3.**Fat Content by Outlet for Total Sales**:
+**Fat Content by Outlet for Total Sales**:
 **Objective**: Compare total sales across different outlets segmented by fat content.Assess how other KPIs(Average Sales, Number of Items, Average
 Rating) vary with fat content.
 
 
-4.**Total Sales by Outlet Establishment**:
+**Total Sales by Outlet Establishment**:
 **Objective**: Evaluate how the age or type of outlet establishment influences total sales.
 
 
-5.**Sales by Outlet Size**:
+**Sales by Outlet Size**:
 **Objective**: Analyze the correlation between outlet size and total sales.
 
 
-6.**Sales by Outlet Location**:
+**Sales by Outlet Location**:
 **Objective**: Assess the geographic distribution of sales across different locations.
 
 
-7.**All Metrics by Outlet Type**:
+**All Metrics by Outlet Type**:
 **Objective**: Provide a comprehensive view of all key metrics (Total Sales, Average Sales, Number of Items, Average Rating) broken down by 
 different
 outlet types.
@@ -59,12 +59,12 @@ outlet types.
 
 ## INSIGHTS
 
-Total Sales of $1.20M overall, with an average sale of $141.
-Tier 3 areas generated the highest sales ($472.13K).
-Fruits and Vegetables lead the category ($178.12K), followed by Snack Foods ($175.43K).
-Regular fat items (~$777.32K) dominate sales over low-fat products.
-Average Rating across products is solid at 3.97
-Total Items Sold: 8,523 across outlets.
+1.Total Sales of $1.20M overall, with an average sale of $141.
+2.Tier 3 areas generated the highest sales ($472.13K).
+3.Fruits and Vegetables lead the category ($178.12K), followed by Snack Foods ($175.43K).
+4.Regular fat items (~$777.32K) dominate sales over low-fat products.
+5.Average Rating across products is solid at 3.97
+6.Total Items Sold: 8,523 across outlets.
 
 
 
