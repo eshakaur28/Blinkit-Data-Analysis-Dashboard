@@ -59,12 +59,12 @@ outlet types.
 
 ## INSIGHTS
 
-1.Total Sales of $1.20M overall, with an average sale of $141.
-2.Tier 3 areas generated the highest sales ($472.13K).
-3.Fruits and Vegetables lead the category ($178.12K), followed by Snack Foods ($175.43K).
-4.Regular fat items (~$777.32K) dominate sales over low-fat products.
-5.Average Rating across products is solid at 3.97
-6.Total Items Sold: 8,523 across outlets.
+1. Total Sales of $1.20M overall, with an average sale of $141.
+2. Tier 3 areas generated the highest sales ($472.13K).
+3. Fruits and Vegetables lead the category ($178.12K), followed by Snack Foods ($175.43K).
+4. Regular fat items (~$777.32K) dominate sales over low-fat products.
+5. Average Rating across products is solid at 3.97
+6. Total Items Sold: 8,523 across outlets.
 
 
 
